@@ -49,7 +49,3 @@ $s.FindAll() | ForEach-Object {
 
 Use only on systems you own or have **explicit written authorization** to test.
 The author assumes no liability for misuse.
-
-## License
-
-MIT
